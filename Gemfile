@@ -64,3 +64,5 @@ end
 
 gem "semantic-ui-sass"
 gem "jquery-rails"
+gem "bcrypt", "~> 3.1.20"
+gem "hirb"
